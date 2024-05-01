@@ -1,2 +1,2 @@
-# valorant
+# Valorant
 Valorant Simple Cheat
