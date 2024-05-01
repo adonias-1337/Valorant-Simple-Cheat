@@ -7,8 +7,7 @@ __NOTE: In order for the driver to work stably, the drivers of Firewall, Secure 
 - Wait for the driver to download.
 - When the "Waiting for Game" message appears, start the game.
 - "Injected." After the text appears, the menu will be injected into the top window, it will not be injected into the game, it is completely external, so; **[DO NOT CLOSE THE CONSOLE, IF YOU DO, THE MENU WILL CLOSE.]**
-
-6- You can open and close the menu by pressing the Insert button.
+- You can open and close the menu by pressing the Insert button.
 
 
 ![Screenshot_Valorant](https://github.com/adonias-1337/valorant/assets/81821456/9a430628-fe07-4a4e-8328-56c1be961e18)
