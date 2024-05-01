@@ -2,15 +2,11 @@
 
 __NOTE: In order for the driver to work stably, the drivers of Firewall, Secure Boot, Windows Defender and other anti-virus programs must be turned off or even deleted. Delete these software completely.__
 
-1- Download the file from the link below and extract its contents to a folder.
-
-2- IF YOU DO NOT START the simple_injector_3.2.exe file **AS ADMINISTRATOR** YOU WILL GET AN ERROR!
-
-3- Wait for the driver to download.
-
-4- When the "Waiting for Game" message appears, start the game.
-
-5- "Injected." After the text appears, the menu will be injected into the top window, it will not be injected into the game, it is completely external, so; **[DO NOT CLOSE THE CONSOLE, IF YOU DO, THE MENU WILL CLOSE.]**
+- Download the file from the link below and extract its contents to a folder.
+- IF YOU DO NOT START the simple_injector_3.2.exe file **AS ADMINISTRATOR** YOU WILL GET AN ERROR!
+- Wait for the driver to download.
+- When the "Waiting for Game" message appears, start the game.
+- "Injected." After the text appears, the menu will be injected into the top window, it will not be injected into the game, it is completely external, so; **[DO NOT CLOSE THE CONSOLE, IF YOU DO, THE MENU WILL CLOSE.]**
 
 6- You can open and close the menu by pressing the Insert button.
 
